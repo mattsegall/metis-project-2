@@ -6,7 +6,7 @@ With around 100,000 wine producers throughout the world, each likley representin
 
 ### Features and target vairables
 
-My target variable is average review score on [Vivino](Vivino https://www.vivino.com/). My features will be various attributes about the wine like:
+My target variable is average review score on Vivino. My features will be various attributes about the wine like:
 
 * producer
 * style
