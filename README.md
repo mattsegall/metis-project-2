@@ -8,9 +8,9 @@ With around 100,000 wine producers throughout the world, each likley representin
 
 My target variable is average review score on 
 
-[Vivino]: https://www.vivino.com/
+[Vivino]: https://www.vivino.com/	"Vivino"
 
-and my features will be various attributes about the wine like the producer, style, geographic origin, average bottle price, popularity/availabilty (# of reviews), grape varietals, and presence of sulfites or other preservatives.
+.  My features will be various attributes about the wine like the producer, style, geographic origin, average bottle price, popularity/availabilty (# of reviews), grape varietals, and presence of sulfites or other preservatives.
 
 ### Data Used
 
